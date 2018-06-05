@@ -1,8 +1,8 @@
 # Certificates
 
 1. My courses list
-2. My certificates
-3. Content of courses (brief review of courses, practical projects and used tools)
+2. My certificates ( i am uploading )
+3. Content of courses (brief review of courses, practical projects and used tools) ( i am uploading )
 
 Specialisation: Applied Data Science with Python (Michigan University):
 1. Introduction to Data Science in Python
