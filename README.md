@@ -2,8 +2,9 @@
 
 This is a short review of my Machine Learning, Data Science, Databases (and more) courses. There are over 30 courses i have acomplished in between september 2017 and may 2018. Order of doc goes like this:
 
-I. My courses list.
-II. My certificates (jpg's).
+I. My courses list
+
+II. My certificates (jpg's)
 
 III. Brief review of courses programming assignments (and other projects).
 
