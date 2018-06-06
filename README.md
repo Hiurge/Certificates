@@ -2,11 +2,10 @@
 
 This is a short review of my Machine Learning, Data Science, Databases (and more) courses. There are over 30 courses i have acomplished in between september 2017 and may 2018. Order of doc goes like this:
 
-I. My courses list 
+I. My courses list.
+II. My certificates (jpg's).
 
-II. My certificates (jpg's) 
-
-III. Brief review of my programming (and other) projects
+III. Brief review of courses programming assignments (and other projects).
 
 
 # I. My courses list 
@@ -176,7 +175,7 @@ III. Brief review of my programming (and other) projects
 ![alt text]( https://github.com/Hiurge/Certificates/blob/master/certificates/X4.%20Using%20Databases(SQL)%20with%20Python%20(University%20of%20Michigan).jpg )
 
 
-# III. Brief review of my programming (and other) projects
+# III. Brief review of courses programming assignments (and other projects).
 
 ### Specialisation: Applied Data Science with Python (Michigan University):
 TECH: Python (TensorFlow, Keras, numpy, matplotlib), CNN, NLP, deep learning, math
