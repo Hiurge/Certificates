@@ -1,0 +1,73 @@
+/*MAIN PROJECT STYLES 
+**Niewidzialne atuty**
+       **Leon**/
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+
+a,
+a:hover,
+a:focus,
+a:active{
+    text-decoration: none;
+    color: inherit;
+}
+
+p{
+    font-size: .65rem;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.main-header{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: .725rem;
+    padding-bottom: .725rem;
+    
+    border-bottom: 1px solid rgb(49, 49, 49);
+    background-color: rgb(255,255,255);
+    
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.logo-box .logo{
+    font-size: 1rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    
+    width: 100%;  
+    opacity:.9%;
+}
+
+.main-nav{
+    text-align: right;
+}
+
+.nav-btn {
+    white-space: nowrap;
+    border: 0;
+    background: rgba(255,255,255,0);
+    width: auto;
+    font-size: .95rem;
+    font-weight: 400;
+}
+
+.nav-btn:hover {
+    font-weight: 700;
+}
+
+.footer{
+    width: 100%;
+    border-top: 1px solid rgb(49, 49, 49);
+    background-color: rgb(255,255,255);
+    margin-top: 5rem !important;
+    display: flex;
+    align-items: center;
+    color: gray;
+    margin: 0;
+}
