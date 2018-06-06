@@ -34,7 +34,7 @@ III. Brief review of courses programming assignments (and other projects).
 5. Executive Data Science Capstone
 
 #### Specialisation: Data Mining
-1. Data Visualisation (Illinois University).jpg	Add files via upload	2 minutes ago
+1. Data Visualisation
 2. Text Retrieval and Search Engines
 3. Text Mining and Analytics
 4. Pattern Discovery in Data Mining (In progress)
@@ -176,7 +176,8 @@ III. Brief review of courses programming assignments (and other projects).
 ![alt text]( https://github.com/Hiurge/Certificates/blob/master/certificates/X4.%20Using%20Databases(SQL)%20with%20Python%20(University%20of%20Michigan).jpg )
 
 
-# III. Brief review of courses programming assignments (and other projects).
+# III. Brief review of courses programming assignments (and other projects)
+
 
 ### Specialisation: Applied Data Science with Python (Michigan University):
 TECH: Python (TensorFlow, Keras, numpy, matplotlib), CNN, NLP, deep learning, math
