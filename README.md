@@ -10,7 +10,7 @@ III. Brief review of courses programming assignments (and other projects).
 
 
 # I. My courses list 
-( + main tools I used)
+( + main tools I used) 
 
 #### Specialisation: Applied Data Science with Python (Michigan University):
 1. Introduction to Data Science in Python
